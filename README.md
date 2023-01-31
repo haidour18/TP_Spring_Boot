@@ -5,3 +5,6 @@ Pour My-movie :http://localhost:8012/swagger2-demo/swagger-ui.html pour voir la 
 
 Pour My-movie pour tester getActeurs il suffit de taper http://localhost:8012/swagger2-demo/getActeurs et ainsi de suite pour toute les endpoints
 
+
+Pour my-finder je n'ai pas pu avancer à cause de mon pc
+j'ai essayé de faire la configuration sans tester
