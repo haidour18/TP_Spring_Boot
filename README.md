@@ -7,4 +7,5 @@ Pour My-movie pour tester getActeurs il suffit de taper http://localhost:8012/sw
 
 
 Pour my-finder je n'ai pas pu avancer à cause de mon pc
-j'ai essayé de faire la configuration sans tester
+j'ai essayé de faire la configuration sans tester Le port est 8014 
+Le lien pour tester pour get Acteurs est  http://localhost:8014/getFilmByDate/{{date}}
