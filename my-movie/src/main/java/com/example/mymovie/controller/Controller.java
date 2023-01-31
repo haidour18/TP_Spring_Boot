@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 @Api(value = "Controller", description = "REST Apis related to Actors and films Entity!!!!")
@@ -106,5 +103,10 @@ public class Controller {
         }
         return acteursByFilm;
     }
+    //@ApiOperation(value = "Delete Acteur  in the System ", response = Acteur.class, tags = "deleteActeur")
+
+
+
+
 
 }
